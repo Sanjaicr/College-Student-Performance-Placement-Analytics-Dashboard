@@ -145,12 +145,8 @@ Useful for:
 **Sanjai C R**  
 Aspiring Data Analyst
 
-Skills: Excel | SQL | Power BI | Python (Learning)
-
-🔗 LinkedIn: *Add here*  
-
-
-
+Skills: Excel | SQL | Power BI | Python | Tableau
+  
 
 ## ⭐ Support
 If you found this project useful, consider giving it a star ⭐
